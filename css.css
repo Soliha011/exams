@@ -1,0 +1,64 @@
+.Zoo{
+    text-align: center;
+    background-color: rgb(131, 224, 224);
+    border: 1px solid red;
+    border-radius: 40px;
+}
+.rang{
+    background-color: yellow;
+}
+.red{
+  color: red;
+}
+.yellow{
+    text-align: center;
+    background-color: yellow;
+}
+.sarq{
+    text-align: center;
+    background-color: yellow;
+}
+.i{
+    color: rgb(3, 103, 38);
+}
+.Jonatish{
+    width: 13%;
+    height: 20%;
+    background-color: blue;
+    color: aliceblue;
+}
+.o{
+    text-align: center;
+    background-color: yellow;
+}
+.tablitsa{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 80%;
+    height: 100px;
+}
+td,th{
+    border: 1px solid black;
+}
+.qzl{
+    background-color: red;
+    color: white;
+}
+.black{
+    background-color: black;
+    color: white;
+
+}
+.kok{
+    background-color: blue;
+    color: aliceblue;
+}
+.e{
+    background-color: green;
+    color: aliceblue;
+}
+div{
+    background-color: black;
+    width: 100%;
+    
+}
